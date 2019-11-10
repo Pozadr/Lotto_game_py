@@ -1,0 +1,6 @@
+time:1571643563.1841068;data:(2, 10);drawn:[5, 10, 9, 8, 7];Hits quantity:4;Hits:[8, 9, 5, 7]
+time:1571643563.1841068;data:(2, 10);drawn:[5, 10, 9, 8, 7];Hits quantity:4;Hits:[8, 9, 5, 7]
+time:1571643563.1841068;data:(2, 10);drawn:[5, 10, 9, 8, 7];Hits quantity:4;Hits:[8, 9, 5, 7]
+time:1571643563.1841068;data:(2, 10);drawn:[5, 10, 9, 8, 7];Hits quantity:4;Hits:[8, 9, 5, 7]
+time:1571643563.1841068;data:(2, 10);drawn:[5, 10, 9, 8, 7];Hits quantity:4;Hits:[8, 9, 5, 7]
+time:1573406622.8508778;data:(2, 10);drawn:[5, 2, 4, 8, 3];Hits quantity:3;Hits:[8, 2, 5]
